@@ -1,2 +1,0 @@
-# Alamitiko
-version 1
